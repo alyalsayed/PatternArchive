@@ -44,7 +44,7 @@ PatternArchive is a collection of classic design pattern implementations aimed a
 - **Example Implementation:**  
   Use the Observer pattern when you need to implement event broadcasting—for instance, updating multiple display panels when new data is available.
 
-- **Location in Repo:** [`/observer`](./observer)
+- **Location in Repo:** [`/observer`](./src/main/java/org/example/adapter)
 
 ---
 

@@ -44,7 +44,7 @@ PatternArchive is a collection of classic design pattern implementations aimed a
 - **Example Implementation:**  
   Use the Observer pattern when you need to implement event broadcasting—for instance, updating multiple display panels when new data is available.
 
-- **Location in Repo:** [`/observer`](./src/main/java/org/example/adapter)
+- **Location in Repo:** [`/observer`](./src/main/java/org/example/observer)
 
 ---
 
@@ -60,7 +60,7 @@ PatternArchive is a collection of classic design pattern implementations aimed a
 - **Example Implementation:**  
   Apply the Adapter pattern when you need to integrate a third-party API into your application, or when refactoring legacy code to meet new interface requirements.
 
-- **Location in Repo:** [`/adapter`](./adapter)
+- **Location in Repo:** [`/adapter`](./src/main/java/org/example/adapter)
 
 ---
 
@@ -76,7 +76,7 @@ PatternArchive is a collection of classic design pattern implementations aimed a
 - **Example Implementation:**  
   Use the Strategy pattern when you want to choose between multiple algorithms dynamically—for instance, selecting the best sorting strategy based on the data set size.
 
-- **Location in Repo:** [`/strategy`](./strategy)
+- **Location in Repo:** [`/strategy`](./src/main/java/org/example/strategy)
 
 ---
 

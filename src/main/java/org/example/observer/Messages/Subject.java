@@ -1,4 +1,7 @@
 package org.example.observer.Messages;
 
-public interface Subject {
+interface Subject {
+    void attach(Observer observer);
+    void detach(Observer observer);
+    void notifyObservers(String message);
 }

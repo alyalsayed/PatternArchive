@@ -1,4 +1,4 @@
-package org.example.strategy;
+package org.example.strategy.CalculatorStrategy;
 
 public class AdditionStrategy implements CalculationStrategy {
     @Override

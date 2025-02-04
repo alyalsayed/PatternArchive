@@ -1,4 +1,4 @@
-package org.example.strategy;
+package org.example.strategy.CalculatorStrategy;
 
 public class Main {
     public static void main(String[] args) {
